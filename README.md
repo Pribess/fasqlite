@@ -1,2 +1,2 @@
 # fasqlite
-fast sqlite implementation
+A fast, concurrency-guaranteed sqlite implementation
